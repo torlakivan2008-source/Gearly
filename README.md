@@ -5,7 +5,7 @@ Omogućava osnovne CRUD operacije nad opremom (dodavanje, dohvaćanje, ažuriran
 Gearly sadrži vizualizaciju 'snage' opreme grupirane po 'mjestu' opreme putem bar charta (stupčastog grafikona), što omogućuje uvid u distribuciju opreme.
 ## Use case
 ---
-![[static/usecase.png]]
+![static/usecase.png](https://github.com/torlakivan2008-source/Gearly/blob/main/static/usecase.png)
 ## Instalacija
 ---
 Preuzimanje koda s GitHub-a:
