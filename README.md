@@ -13,7 +13,7 @@ cd Gearly
 
 Koraci za Docker:
 ```bash
-sudo docker build -t gearly .
-sudo docker run -p 8080:8080 gearly
-sudo docker ps #provjera radi li kontenjer
+docker build -t gearly .
+docker run -p 8080:8080 gearly
+docker ps #provjera radi li kontenjer
 ```
